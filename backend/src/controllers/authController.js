@@ -1,3 +1,4 @@
+#authController.js
 const authService = require('../services/authService');
 const sendEmail = require('../utils/sendEmail');
 const fs = require('fs');
